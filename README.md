@@ -1,1 +1,3 @@
-# pythona_auto
+# Otus QA Automation
+
+Homework 1
