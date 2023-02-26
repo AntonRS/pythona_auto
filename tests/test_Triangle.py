@@ -1,5 +1,4 @@
 import pytest
-import math
 from src.Triangle import Triangle
 
 

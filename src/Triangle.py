@@ -1,4 +1,3 @@
-from math import sqrt
 from src.Figure import Figure
 
 
